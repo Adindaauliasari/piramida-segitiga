@@ -3,6 +3,7 @@
 using namespace std;
 
 int main()
+
 {
       int r, i, j, s;
       cout << "Masukkan jumlah baris: ";
