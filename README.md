@@ -12,7 +12,7 @@ int main()
       cin >> r;
       for (i = 1; i <= r; i++)
       {
-            //for loop to put space in pyramid
+           
             for (s = i; s < r; s++)
                   cout << " ";
             //for loop to print star
