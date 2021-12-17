@@ -7,6 +7,7 @@ int main()
 {
 
       int r, i, j, s;
+      
       cout << "Masukkan jumlah baris: ";
       cin >> r;
       for (i = 1; i <= r; i++)
